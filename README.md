@@ -1,0 +1,1 @@
+# stamp-notify-for-slack
